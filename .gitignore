@@ -11,3 +11,8 @@ outputs/
 
 # OS / Editor
 .vscode/
+
+.env
+outputs/
+__pycache__/
+*.pyc
